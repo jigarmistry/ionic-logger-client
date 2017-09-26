@@ -1,6 +1,6 @@
 {
   "name": "ionic-logger-client",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Ionic Real Time Logger Client",
   "main": "index.js",
   "scripts": {
